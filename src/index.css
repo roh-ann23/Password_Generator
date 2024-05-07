@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .heading{
+    font-size: 50px;
+    margin-top: 200px;
+} */
+.main{
+    margin-top: 15%;
+}
+.copy-btn:hover{
+    background-color: lightblue;
+    color: white;
+}
