@@ -2,7 +2,7 @@
 
 This is a simple password generator web application built using React. It allows users to generate random passwords of a specified length with options to include numbers and special characters.
 
-![Password_Generator](https://github.com/roh-ann23/Password_Generator/assets/158121284/1c1b0570-2ac0-446c-9869-d8b705e08a03)
+   ![Password_Generator](https://github.com/roh-ann23/Password_Generator/assets/158121284/1c1b0570-2ac0-446c-9869-d8b705e08a03)
 
 
 ## Features
